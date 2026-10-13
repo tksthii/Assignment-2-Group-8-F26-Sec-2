@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main() {
@@ -14,6 +15,9 @@ int main() {
         return 1;
     }
 
-    cout << "Price: " << price << ", Discount: " << discount << "%" << endl;
+    double finalPrice = price - (price * discount / 100);
+
+    cout << fixed << setprecision(2);
+    cout << "Final price after discount: $" << finalPrice << endl;
     return 0;
 }
