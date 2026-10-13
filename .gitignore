@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/CodeChunks.db
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/CodeChunks.db-shm
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/CodeChunks.db-wal
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/SemanticSymbols.db
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/SemanticSymbols.db-shm
+/.vs/Assignment-2-Group-8-F26-Sec-2/CopilotIndices/17.14.1204.46620/SemanticSymbols.db-wal
+/.vs/Assignment-2-Group-8-F26-Sec-2/FileContentIndex/4543954b-816b-4706-aa8a-0dcfbe30a78f.vsidx
+/.vs/Assignment-2-Group-8-F26-Sec-2/FileContentIndex/4c115bca-9c87-4448-9401-1cb63d522ed6.vsidx
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/.wsuo
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/Browse.VC.db
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/Browse.VC.db-shm
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/Browse.VC.db-wal
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/Browse.VC.opendb
+/.vs/Assignment-2-Group-8-F26-Sec-2/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Assignment-2-Group-8-F26-Sec-2/FileContentIndex/f85727b6-0a18-4187-a118-b921fa602daa.vsidx
+/.vs/slnx.sqlite-journal
