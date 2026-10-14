@@ -29,6 +29,7 @@ int main() {
     int section = readNumber("Choose a section (1-4): ",
                             "Invalid section. Enter a whole number from 1 to 4.", 4);
     if (section == 0) return 0;
+    cout << "Selected: " << sections[section - 1] << " - $" << prices[section - 1] << " per ticket\n";
     int quantity = readNumber("Enter number of tickets: ",
                              "Invalid quantity. Enter a positive whole number.",
                              numeric_limits<int>::max());
